@@ -1,0 +1,4 @@
+github.com/hashicorp/yamux v0.1.1 h1:yrQxtgseBDrq9Y652vSRDvsKCJKOUD+GzTS4Y0Y8pvE=
+github.com/hashicorp/yamux v0.1.1/go.mod h1:CtWFDAQgb7dxtzFs4tWbplKIe2jSi3+5vKbgIO0SLnQ=
+github.com/shynome/err0 v0.1.0 h1:+cWnUkE2kZ9fFTTOrgSkoPzBuSppywI9gd0EFQrFaDw=
+github.com/shynome/err0 v0.1.0/go.mod h1:n5YVOAf8QSa8LMWWFKCXoHQjAjwjywKFiORV/btN3Aw=
